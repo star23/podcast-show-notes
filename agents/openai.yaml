@@ -1,0 +1,4 @@
+interface:
+  display_name: "Podcast Show Notes"
+  short_description: "先校正播客转写错误，再生成完整修正版、节目 Shownotes 与精华稿"
+  default_prompt: "使用 $podcast-show-notes 处理这份播客全文稿：先纠正转写错误并保存完整修正版，再生成 Shownotes 和精华稿。"
